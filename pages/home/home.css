@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+      padding-top: 30px;
+      background-image: url('http://osrodek.lzs.info.pl/wp-content/themes/parquetry/images/maingraphic.png');
+      background-size: cover;
+      background-position: center;
+      width: 100vw;
+      height: 100vh;
+  }
