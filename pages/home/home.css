@@ -1,12 +1,27 @@
 .header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-      padding-top: 30px;
-      background-image: url('http://osrodek.lzs.info.pl/wp-content/themes/parquetry/images/maingraphic.png');
-      background-size: cover;
-      background-position: center;
-      width: 100vw;
-      height: 100vh;
-  }
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	padding-top: 30px;
+	background-image: url('../../src/header3.jpg');
+	background-size: cover;
+	background-position: center;
+	width: 100vw;
+	height: 100vh;
+}
+.posts {
+  padding: 40px;
+	margin: 0 auto;
+	max-width: 1280px;
+}
+.post {
+  display: flex;
+}
+.post_thumbnail {
+	width: 300px;
+	height: 300px;
+}
+.post_content {
+  padding: 20px;
+}

@@ -1,0 +1,4 @@
+.danger {
+    display: flex;
+    flex-direction: column;
+}
